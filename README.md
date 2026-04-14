@@ -25,7 +25,7 @@ Most of the work here sits around **security tooling**, **JavaScript utilities**
   <img src="https://img.shields.io/badge/App%20Security-B71C1C?style=for-the-badge&logo=hackaday&logoColor=white" alt="App Security">
 </p>
 
-## GitHub Stats
+## GitHub Stats :chart_with_upwards_trend:
 
 <p align="center">
   <picture>
@@ -48,7 +48,7 @@ Most of the work here sits around **security tooling**, **JavaScript utilities**
   </picture>
 </p>
 
-## Contribution Activity
+## Contribution Activity :zap:
 
 <p align="center">
   <a href="https://github.com/tanu1337">
@@ -60,14 +60,14 @@ Most of the work here sits around **security tooling**, **JavaScript utilities**
   </a>
 </p>
 
-## Selected Work
+**Selected Work**
 
 - [aifiesta-1337](https://github.com/tanu1337/aifiesta-1337) — Aifiesta security testing.
 - [eci-voter-list-analyzer](https://github.com/tanu1337/eci-voter-list-analyzer) — ECI voter list OCR system.
 - [qwen-api](https://github.com/tanu1337/qwen-api) — Qwen API documentation.
 - [universal-proxy](https://github.com/tanu1337/universal-proxy) — Universal HTTP proxy server.
 
-## Let's Connect
+## Let's Connect :handshake:
 
 <a href="https://github.com/tanu1337"><img src="https://img.shields.io/badge/GitHub-tanu1337-F38020?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 <a href="https://github.com/tanu1337?tab=repositories"><img src="https://img.shields.io/badge/Repositories-View%20Work-1f6feb?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"></a>
