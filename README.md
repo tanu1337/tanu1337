@@ -25,13 +25,6 @@ Most of the work here sits around **security tooling**, **JavaScript utilities**
   <img src="https://img.shields.io/badge/App%20Security-B71C1C?style=for-the-badge&logo=hackaday&logoColor=white" alt="App Security">
 </p>
 
-## Selected Work
-
-- [aifiesta-1337](https://github.com/tanu1337/aifiesta-1337) — Aifiesta security testing.
-- [eci-voter-list-analyzer](https://github.com/tanu1337/eci-voter-list-analyzer) — ECI voter list OCR system.
-- [qwen-api](https://github.com/tanu1337/qwen-api) — Qwen API documentation.
-- [universal-proxy](https://github.com/tanu1337/universal-proxy) — Universal HTTP proxy server.
-
 ## GitHub Stats
 
 <p align="center">
@@ -67,9 +60,14 @@ Most of the work here sits around **security tooling**, **JavaScript utilities**
   </a>
 </p>
 
+## Selected Work
+
+- [aifiesta-1337](https://github.com/tanu1337/aifiesta-1337) — Aifiesta security testing.
+- [eci-voter-list-analyzer](https://github.com/tanu1337/eci-voter-list-analyzer) — ECI voter list OCR system.
+- [qwen-api](https://github.com/tanu1337/qwen-api) — Qwen API documentation.
+- [universal-proxy](https://github.com/tanu1337/universal-proxy) — Universal HTTP proxy server.
+
 ## Let's Connect
 
 <a href="https://github.com/tanu1337"><img src="https://img.shields.io/badge/GitHub-tanu1337-F38020?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 <a href="https://github.com/tanu1337?tab=repositories"><img src="https://img.shields.io/badge/Repositories-View%20Work-1f6feb?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"></a>
-<a href="https://qwen.aikit.club"><img src="https://img.shields.io/badge/qwen.aikit.club-Live%20Docs-0E7490?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Live Docs"></a>
-<a href="https://github.com/tanu1337"><img src="https://img.shields.io/badge/Location-Earth%2C%20Milky%20Way-1f6feb?style=for-the-badge&logo=github&logoColor=white" alt="Location"></a>
