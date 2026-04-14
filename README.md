@@ -71,3 +71,4 @@ Most of the work here sits around **security tooling**, **JavaScript utilities**
 
 <a href="https://github.com/tanu1337"><img src="https://img.shields.io/badge/GitHub-tanu1337-F38020?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 <a href="https://github.com/tanu1337?tab=repositories"><img src="https://img.shields.io/badge/Repositories-View%20Work-1f6feb?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"></a>
+<a href="https://github.com/tanu360"><img src="https://img.shields.io/badge/Joined-April%202026-1f6feb?style=for-the-badge&logo=github&logoColor=white" alt="Joined April 2026"></a>
